@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let n=node.value.split('\n').length;res.innerText=`Node attributes: ${n}`;}

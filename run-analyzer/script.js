@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let r=run.value.split('\n').length;res.innerText=`Run steps: ${r}`;}

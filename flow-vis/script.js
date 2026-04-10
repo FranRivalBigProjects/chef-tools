@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let f=flow.value.split('\n').length;res.innerText=`Flow steps: ${f}`;}

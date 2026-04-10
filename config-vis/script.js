@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let c=config.value.split('\n').length;res.innerText=`Config entries: ${c}`;}

@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let r=recipe.value.split('\n').length;res.innerText=`Steps: ${r}`;}

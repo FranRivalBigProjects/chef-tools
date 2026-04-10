@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let a=attr.value.split('\n').length;res.innerText=`Attributes: ${a}`;}
